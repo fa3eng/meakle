@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meakle)](https://github.com/anuraghazra/github-readme-stats)
+
 👉[roadmap](https://meakle.github.io/meakle-roadmap/)
+
 
 <!--
 **Meakle/meakle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
