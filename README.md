@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meakle)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meakle&theme=dark&show_icons=bear)
+
+
 
 👉[roadmap](https://meakle.github.io/meakle-roadmap/)
 
